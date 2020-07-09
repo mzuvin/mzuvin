@@ -1,4 +1,4 @@
-Merhaba Yabancı ⚡ `Keyfince Yazılımcı Mustafa`. @mzuvin [![GitHub followers](https://img.shields.io/github/followers/mzuvin.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mzuvin?tab=followers) 👋
+Merhaba ⚡ `Ben Keyfince Yazılımcı Mustafa`. @mzuvin  👋
 
 Sene 2012 kodlamaya 128x128 Telefon ekranında wap siteler açarak başladım. Evet yanlış duymadınız, GPRS Teknolojisi ile.
 
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Analytics](https://ga-beacon.appspot.com/UA-169340197-2/github.com/mzuvin?pixel)](https://GitHub.com/mzuvin)
