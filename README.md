@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba Yabancı ⚡ Ben Keyfince Yazılımcı Mustafa. 👋
 
 <!--
 **mzuvin/mzuvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
