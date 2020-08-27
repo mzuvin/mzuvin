@@ -23,6 +23,7 @@
 <a href="https://instagram.com/mzuvin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mzuvin" height="30" width="30" /></a>
 <a href="https://medium.com/@ciftklik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ciftklik" height="30" width="30" /></a>
 </p>
+
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
