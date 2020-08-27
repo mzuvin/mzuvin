@@ -27,6 +27,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uçak Gövde Motor Shy Lisansları, Dersler, Hazırlık, İngilizce](https://www.ciftklik.net/2020/08/ucak-govde-motor-shy-lisanslari.html)
+- [Sql sorgusu ile sms atmak](https://www.ciftklik.net/2020/06/sql-sorgusu-ile-sms-atmak.html)
+- [Uçak Gövde Motor Bölümü Hakkında Bilgi](https://www.ciftklik.net/2020/05/ucak-govde-motor-bolumu-hakkinda-bilgi.html)
+- [Backend Kurulum Notlarım](https://www.ciftklik.net/2020/05/backend-kurulum-notlarm.html)
+- [Twitter Üzerinden Zamanlanmış Tweet Atma](https://www.ciftklik.net/2019/11/twitter-uzerinden-zamanlanms-tweet-atma.html)
 <!-- BLOG-POST-LIST:END -->
 
 
