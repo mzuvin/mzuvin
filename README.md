@@ -24,6 +24,4 @@
 <a href="https://medium.com/@ciftklik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ciftklik" height="30" width="30" /></a>
 </p>
 
-`Blog`
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmzuvin%2Fmzuvin)]()
