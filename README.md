@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 👨‍💻 All of my projects are available at [mustafa.ciftklik.net](mustafa.ciftklik.net)
+- 👨‍💻 All of my projects are available at [https://mustafa.ciftklik.net](mustafa.ciftklik.net)
 
-- 📝 I regulary write articles on [ciftklik.net](ciftklik.net)
+- 📝 I regulary write articles on [https://ciftklik.net](ciftklik.net)
 
 - 💬 Ask me about **flask, python**
 
