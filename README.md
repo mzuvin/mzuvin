@@ -27,11 +27,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [81 ilde 81 Siber Kahraman Online Sınav Soruları](https://www.ciftklik.net/2020/09/81-ilde-81-siber-kahraman-online-snav.html)
 - [İnönü Üniversitesi Bilgisayar Mühendisliği](https://www.ciftklik.net/2020/08/inonu-universitesi-bilgisayar-muhendisligi.html)
 - [Uçak Gövde Motor Shy Lisansları, Dersler, Hazırlık, İngilizce](https://www.ciftklik.net/2020/08/ucak-govde-motor-shy-lisanslari.html)
 - [Sql sorgusu ile sms atmak](https://www.ciftklik.net/2020/06/sql-sorgusu-ile-sms-atmak.html)
 - [Uçak Gövde Motor Bölümü Hakkında Bilgi](https://www.ciftklik.net/2020/05/ucak-govde-motor-bolumu-hakkinda-bilgi.html)
-- [Backend Kurulum Notlarım](https://www.ciftklik.net/2020/05/backend-kurulum-notlarm.html)
 <!-- BLOG-POST-LIST:END -->
 
 
