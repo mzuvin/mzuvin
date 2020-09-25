@@ -27,10 +27,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ücretsiz Mobil İnternet Paylaşımı Nasıl Yapılır?](https://medium.com/@ciftklik/%C3%BCcretsiz-mobil-i%CC%87nternet-payla%C5%9F%C4%B1m%C4%B1-nas%C4%B1l-yap%C4%B1l%C4%B1r-daf5dbf4593?source=rss-a228f50c96d8------2)
-- [Android için Kod Editörleri](https://medium.com/@ciftklik/android-i%C3%A7in-kod-edit%C3%B6rleri-53400ed072a2?source=rss-a228f50c96d8------2)
-- [Javascript to Python Translator](https://medium.com/@ciftklik/javascript-to-python-translator-dcce040afd93?source=rss-a228f50c96d8------2)
-- [Hakkımda](https://medium.com/@ciftklik/merhaba-arkada%C5%9Flar-ae2e74310468?source=rss-a228f50c96d8------2)
+- [Bozuk Açılmayan Hasarlı Mp4 Video Onarma Nasıl Yapılır](https://www.ciftklik.net/2020/09/bozuk-acilmayan-hasarli-mp4-video-onarma.html)
+- [81 ilde 81 Siber Kahraman Online Sınav Soruları](https://www.ciftklik.net/2020/09/81-ilde-81-siber-kahraman-online-snav.html)
+- [İnönü Üniversitesi Bilgisayar Mühendisliği](https://www.ciftklik.net/2020/08/inonu-universitesi-bilgisayar-muhendisligi.html)
+- [Uçak Gövde Motor Shy Lisansları, Dersler, Hazırlık, İngilizce](https://www.ciftklik.net/2020/08/ucak-govde-motor-shy-lisanslari.html)
+- [Sql sorgusu ile sms atmak](https://www.ciftklik.net/2020/06/sql-sorgusu-ile-sms-atmak.html)
 <!-- BLOG-POST-LIST:END -->
 
 
