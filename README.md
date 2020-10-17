@@ -28,10 +28,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bozuk Açılmayan Hasarlı Mp4 Video Onarma Nasıl Yapılır](https://www.ciftklik.net/2020/09/bozuk-acilmayan-hasarli-mp4-video-onarma.html)
-- [81 ilde 81 Siber Kahraman Online Sınav Soruları](https://www.ciftklik.net/2020/09/81-ilde-81-siber-kahraman-online-snav.html)
 - [İnönü Üniversitesi Bilgisayar Mühendisliği](https://www.ciftklik.net/2020/08/inonu-universitesi-bilgisayar-muhendisligi.html)
 - [Uçak Gövde Motor Shy Lisansları, Dersler, Hazırlık, İngilizce](https://www.ciftklik.net/2020/08/ucak-govde-motor-shy-lisanslari.html)
 - [Sql sorgusu ile sms atmak](https://www.ciftklik.net/2020/06/sql-sorgusu-ile-sms-atmak.html)
+- [Uçak Gövde Motor Bölümü Hakkında Bilgi](https://www.ciftklik.net/2020/05/ucak-govde-motor-bolumu-hakkinda-bilgi.html)
 <!-- BLOG-POST-LIST:END -->
 
 
