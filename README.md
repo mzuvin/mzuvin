@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Native App**
+- 🔭 I’m currently working on **Windows Forms App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **c#**
 
 - 👨‍💻 All of my projects are available at [mustafa.ciftklik.net](https://mustafa.ciftklik.net)
 
