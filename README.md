@@ -16,9 +16,10 @@
 
 
 <p align="center">
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzuvin&layout=compact&theme=radical" alt="mzuvin" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mzuvin&show_icons=true&theme=radical" alt="mzuvin" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzuvin&layout=compact&theme=dark" alt="mzuvin" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mzuvin&show_icons=true&theme=dark" alt="mzuvin" />
 </p>
 
 
