@@ -1,3 +1,4 @@
+<p align="center"><img alt="Çift Klik" id="Header1_headerimg" src="https://1.bp.blogspot.com/-Yt10--IbQDE/WrDM3Hj2z-I/AAAAAAAAAWM/GZg_i5ul_5MZnEpF69ce_wcKWYSKvCIaQCK4BGAYYCw/s1200/logo-ciftklik.net.png" style="heigth: 100px; display: block;border: 2px solid #35b729!important;max-width: 100%;verticalalign: middle;border: 0;background: #eee;border-radius: 12px; width:300px;  box-shadow: 0px -1px 20px 11px #35b729;"></p>
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Software Developer</h3>
 
@@ -13,9 +14,13 @@
 
 - 📫 How to reach me **mustafa@ciftklik.net**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzuvin&layout=compact&hide=html" alt="mzuvin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzuvin&show_icons=true" alt="mzuvin" /></p>
+<p align="center">
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzuvin&layout=compact&theme=radical" alt="mzuvin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mzuvin&show_icons=true&theme=radical" alt="mzuvin" />
+</p>
+
 
 <p align="center">
 <a href="https://twitter.com/mzuvin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mzuvin" height="30" width="30" /></a>
