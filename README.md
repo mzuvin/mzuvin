@@ -14,14 +14,13 @@
 
 - 📫 How to reach me **mustafa@ciftklik.net**
 
-
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzuvin&layout=compact&theme=dark" alt="mzuvin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzuvin&layout=compact&theme=dark" alt="mzuvin" />
 </p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mzuvin&show_icons=true&theme=dark" alt="mzuvin" />
 </p>
-
 
 <p align="center">
 <a href="https://twitter.com/mzuvin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mzuvin" height="30" width="30" /></a>
@@ -32,13 +31,10 @@
 
 # Blog posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Bozuk Açılmayan Hasarlı Mp4 Video Onarma Nasıl Yapılır](https://www.ciftklik.net/2020/09/bozuk-acilmayan-hasarli-mp4-video-onarma.html)
 - [İnönü Üniversitesi Bilgisayar Mühendisliği](https://www.ciftklik.net/2020/08/inonu-universitesi-bilgisayar-muhendisligi.html)
-- [Uçak Gövde Motor Shy Lisansları, Dersler, Hazırlık, İngilizce](https://www.ciftklik.net/2020/08/ucak-govde-motor-shy-lisanslari.html)
 - [Sql sorgusu ile sms atmak](https://www.ciftklik.net/2020/06/sql-sorgusu-ile-sms-atmak.html)
-- [Uçak Gövde Motor Bölümü Hakkında Bilgi](https://www.ciftklik.net/2020/05/ucak-govde-motor-bolumu-hakkinda-bilgi.html)
-<!-- BLOG-POST-LIST:END -->
-
+- [Js2Py Nedir?](https://www.ciftklik.net/2018/09/pythonda-javascript-calistirmak-js2py.html)
+- [Bilgisayar Mühendisliği Tavsiyeler](https://www.ciftklik.net/2019/08/bilgisayar-muhendisligi-tavsiyeler.html)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmzuvin%2Fmzuvin)]()
