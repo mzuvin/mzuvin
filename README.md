@@ -1,4 +1,4 @@
-<p align="center"><img alt="Çift Klik" id="Header1_headerimg" src="https://1.bp.blogspot.com/-Yt10--IbQDE/WrDM3Hj2z-I/AAAAAAAAAWM/GZg_i5ul_5MZnEpF69ce_wcKWYSKvCIaQCK4BGAYYCw/s1200/logo-ciftklik.net.png" style="heigth: 100px; display: block;border: 2px solid #35b729!important;max-width: 100%;verticalalign: middle;border: 0;background: #eee;border-radius: 12px; width:300px;  box-shadow: 0px -1px 20px 11px #35b729;"></p>
+<p align="center"><img alt="Çift Klik" id="Header1_headerimg" src="https://github.com/mzuvin/mzuvin/raw/master/logo.svg"></p>
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Software Developer</h3>
 
