@@ -2,33 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Windows Forms App**
-
-- 🌱 I’m currently learning **c#**
-
-- 👨‍💻 All of my projects are available at [mustafa.ciftklik.net](https://mustafa.ciftklik.net)
-
-- 📝 I regulary write articles on [ciftklik.net](https://ciftklik.net)
-
-- 💬 Ask me about **flask, python**
-
-- 📫 How to reach me **mustafa@ciftklik.net**
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzuvin&layout=compact&theme=dark" alt="mzuvin" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mzuvin&show_icons=true&theme=dark" alt="mzuvin" />
-</p>
-
-<p align="center">
-<a href="https://twitter.com/mzuvin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mzuvin" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/mzuvin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mzuvin" height="30" width="30" /></a>
-<a href="https://instagram.com/mzuvin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mzuvin" height="30" width="30" /></a>
-<a href="https://medium.com/@ciftklik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ciftklik" height="30" width="30" /></a>
-</p>
-
 # Blog posts
 
 - [Bozuk Açılmayan Hasarlı Mp4 Video Onarma Nasıl Yapılır](https://www.ciftklik.net/2020/09/bozuk-acilmayan-hasarli-mp4-video-onarma.html)
