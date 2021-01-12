@@ -1,0 +1,68 @@
+<svg xml:space="preserve" viewBox="0 0 1689.168 237.024" height="226px" width="226px" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="Layer_1" version="1.0" style="height: 100%; width: 100%; background: rgb(255, 255, 255);"><g class="ldl-scale" style="transform-origin: 50% 50%; transform: rotate(0deg) scale(0.8, 0.8);"><g class="ldl-ani" style="transform: scale(0.91); transform-origin: 844.584px 118.512px; animation: 1.44928s linear 0s 1 normal forwards running fall-ttb-in-anim;">
+	 <defs>
+    <style type="text/css"><![CDATA[
+@keyframes fall-ttb-in-anim
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.7815,0.1815,0.7831,0.7206);
+    transform: translate(0px,-49.75px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 0;
+  }
+  31% {
+    animation-timing-function: cubic-bezier(0.1707,0.3173,0.3345,0.9041);
+    transform: translate(0px,-2.65px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+  51% {
+    animation-timing-function: cubic-bezier(0.6191,0.1797,0.7336,0.6732);
+    transform: translate(0px,-20px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+  72% {
+    animation-timing-function: cubic-bezier(0.2345,0.4707,0.453,1);
+    transform: translate(0px,-1.05px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+  87% {
+    animation-timing-function: cubic-bezier(0.53,0.1845,0.7541,0.5953);
+    transform: translate(0px,-7.9px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(0px,0px) rotate(0deg) scale(1,1) skewX(0deg) skewY(0deg);
+    opacity: 1;
+  }
+}
+    ]]></style>
+  </defs>
+<g class="ldl-layer"><g class="ldl-ani"><g>
+	<g class="ldl-layer"><g class="ldl-ani"><path d="M20.866,149.992c0,45.381,35.419,80.8,81.907,80.8
+		c42.061,0,61.983-24.351,61.983-24.351l-26.564-42.061c0,0-13.282,12.176-28.778,12.176S82.85,165.488,82.85,149.992
+		s11.068-26.564,26.564-26.564s28.778,12.175,28.778,12.175l26.564-42.06c0,0-19.923-24.351-61.983-24.351
+		C56.285,69.192,20.866,104.611,20.866,149.992z" fill="#262043" clip-path="url(#SVGID_2_)" style="fill: rgb(38, 32, 67);"></path></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><path d="M189.106,34.88c0,12.175,9.961,22.137,22.137,22.137
+		c12.175,0,22.137-9.962,22.137-22.137s-9.961-22.137-22.137-22.137C199.068,12.743,189.106,22.705,189.106,34.88z M240.021,72.513
+		h-57.556v154.959h57.556V72.513z" fill="#35B729" clip-path="url(#SVGID_2_)" style="fill: rgb(53, 183, 41);"></path></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><polygon points="266.583,72.513 266.583,227.472 324.139,227.472 324.139,183.198 
+		370.626,183.198 370.626,138.924 324.139,138.924 324.139,121.214 381.695,121.214 381.695,72.513" fill="#35B729" clip-path="url(#SVGID_2_)" style="fill: rgb(53, 183, 41);"></polygon></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><polygon points="390.548,72.513 390.548,123.428 432.608,123.428 432.608,227.472 
+		490.165,227.472 490.165,123.428 532.225,123.428 532.225,72.513" fill="#35B729" clip-path="url(#SVGID_2_)" style="fill: rgb(53, 183, 41);"></polygon></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><polygon points="700.462,72.513 634.051,72.513 607.486,134.497 607.486,72.513 
+		549.93,72.513 549.93,227.472 607.486,227.472 607.486,165.488 638.478,227.472 704.889,227.472 658.401,149.992" fill="#262043" clip-path="url(#SVGID_2_)" style="fill: rgb(38, 32, 67);"></polygon></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><polygon points="773.505,72.513 715.95,72.513 715.95,227.472 833.276,227.472 
+		833.276,176.557 773.505,176.557" fill="#35B729" clip-path="url(#SVGID_2_)" style="fill: rgb(53, 183, 41);"></polygon></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><path d="M857.626,34.88c0,12.175,9.961,22.137,22.137,22.137
+		c12.175,0,22.137-9.962,22.137-22.137s-9.962-22.137-22.137-22.137C867.587,12.743,857.626,22.705,857.626,34.88z M908.541,72.513
+		h-57.556v154.959h57.556V72.513z" fill="#35B729" clip-path="url(#SVGID_2_)" style="fill: rgb(53, 183, 41);"></path></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><polygon points="1085.633,72.513 1019.222,72.513 992.658,134.497 992.658,72.513 
+		935.102,72.513 935.102,227.472 992.658,227.472 992.658,165.488 1023.65,227.472 1090.061,227.472 1043.574,149.992" fill="#35B729" clip-path="url(#SVGID_2_)" style="fill: rgb(53, 183, 41);"></polygon></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><rect height="44.274" width="46.488" fill="#262043" clip-path="url(#SVGID_2_)" y="183.198" x="1140.967" style="fill: rgb(38, 32, 67);"></rect></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><polygon points="1304.78,227.472 1368.977,227.472 1368.977,72.513 1311.42,72.513 
+		1311.42,141.138 1273.788,72.513 1209.59,72.513 1209.59,227.472 1267.146,227.472 1267.146,158.847" fill="#262043" clip-path="url(#SVGID_2_)" style="fill: rgb(38, 32, 67);"></polygon></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><polygon points="1453.087,172.129 1510.644,172.129 1510.644,127.855 1453.087,127.855 
+		1453.087,116.787 1515.072,116.787 1515.072,72.513 1395.532,72.513 1395.532,227.472 1519.499,227.472 1519.499,183.198 
+		1453.087,183.198" fill="#35B729" clip-path="url(#SVGID_2_)" style="fill: rgb(53, 183, 41);"></polygon></g></g>
+	<g class="ldl-layer"><g class="ldl-ani"><polygon points="1530.56,72.513 1530.56,123.428 1572.62,123.428 1572.62,227.472 
+		1630.176,227.472 1630.176,123.428 1672.237,123.428 1672.237,72.513" fill="#35B729" clip-path="url(#SVGID_2_)" style="fill: rgb(53, 183, 41);"></polygon></g></g>
+</g></g></g>
+</g></g></svg>
