@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Software Developer</h3>
 
-# Blog posts
+# [TR] Blog posts 
 
 - [Bozuk Açılmayan Hasarlı Mp4 Video Onarma Nasıl Yapılır](https://www.ciftklik.net/2020/09/bozuk-acilmayan-hasarli-mp4-video-onarma.html)
 - [İnönü Üniversitesi Bilgisayar Mühendisliği](https://www.ciftklik.net/2020/08/inonu-universitesi-bilgisayar-muhendisligi.html)
