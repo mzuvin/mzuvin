@@ -4,6 +4,7 @@
 
 # [TR] Blog posts 
 
+- :point_right: [Github Actions ile .Net Core Uygulamasını FTP ile Publish Etmek](https://www.ciftklik.net/2021/06/github-actions-dotnet-core-ftp-.html) :point_left:
 - [Bozuk Açılmayan Hasarlı Mp4 Video Onarma Nasıl Yapılır](https://www.ciftklik.net/2020/09/bozuk-acilmayan-hasarli-mp4-video-onarma.html)
 - [İnönü Üniversitesi Bilgisayar Mühendisliği](https://www.ciftklik.net/2020/08/inonu-universitesi-bilgisayar-muhendisligi.html)
 - [Sql sorgusu ile sms atmak](https://www.ciftklik.net/2020/06/sql-sorgusu-ile-sms-atmak.html)
