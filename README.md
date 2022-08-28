@@ -8,7 +8,7 @@
 ▒░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓KEYFİNCE YAZILIM▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░
 ▒░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░
 -->
-<p align="center"><img alt="Çift Klik" id="Header1_headerimg" src="https://github.com/mzuvin/mzuvin/raw/master/logo.svg"></p>
+<p align="center"><img alt="Çift Klik" id="Header1_headerimg" src="https://github.com/mzuvin/mzuvin/raw/master/logo2.svg"></p>
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
