@@ -9,6 +9,7 @@
 ▒░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░
 -->
 <p align="center"><img alt="Çift Klik" id="Header1_headerimg" src="https://github.com/mzuvin/mzuvin/raw/master/logo.png"></p>
+<p align="center">"Think one word, think again, think again and collect the words. The result will be you."</p>
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
