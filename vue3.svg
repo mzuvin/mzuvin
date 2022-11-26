@@ -1,4 +1,13 @@
-<svg viewBox="343.559 165.446 213.438 62.24" xmlns="http://www.w3.org/2000/svg">
-  <defs></defs>
-  <text style="background: -webkit-linear-gradient(315deg,#42d392 25%,#647eff);" transform="matrix(2.243909, 0, 0, 2.480001, -581.470459, -279.567535)" x="431.18" y="200.45">VUE3</text>
+<svg viewBox="343.559 165.446 213.438 62.24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"></rect>
+    </pattern>
+    <pattern id="pattern-0-0" patternTransform="matrix(1, 0, 0, 1, 448.68294, 181.087976)" xlink:href="#pattern-0"></pattern>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="461.183" cy="193.588" r="30.003" id="gradient-0" gradientTransform="matrix(-0.936985, 0.48893, -0.334491, -1.255433, 958.058301, 211.138744)">
+      <stop offset="0" style="stop-color: #bada55"></stop>
+      <stop offset="1" style="stop-color: #758d29"></stop>
+    </radialGradient>
+  </defs>
+  <text style="fill: url(#gradient-0); fill-opacity: 0.57; font-family: Padauk; font-size: 27.0161px; paint-order: stroke markers; white-space: pre;" transform="matrix(3.47067, 0, 0, 2.480001, -1150.797485, -279.567535)" x="431.18" y="200.45" dx="0 0 -0.228" dy="0 0 0.319">VUE3</text>
 </svg>
