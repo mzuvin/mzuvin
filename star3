@@ -1,0 +1,17 @@
+<svg viewBox="343.559 165.446 213.438 62.24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="459.677" y1="210.741" x2="459.677" y2="221.032" id="gradient-0" gradientTransform="matrix(1, 0, 0, 29.461279, 13.457358, -6161.030084)">
+      <stop offset="0" style="stop-color: #bada55"></stop>
+      <stop offset="1" style="stop-color: #758d29"></stop>
+    </linearGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="473.134" cy="199.263" r="87.077" id="gradient-1" gradientTransform="matrix(1, 0, 0, 0.626633, -4.749725, 68.461385)">
+      <stop offset="0" style="stop-color: #bada55"></stop>
+      <stop offset="1" style="stop-color: #758d29"></stop>
+    </radialGradient>
+  </defs>
+  <rect x="314.812" y="103.083" width="265.189" height="189.987" style="stroke: rgb(0, 0, 0); paint-order: stroke markers; fill-rule: evenodd; fill: rgb(240, 255, 189);"></rect>
+  <text style="fill: rgb(5, 5, 5); font-family: Arial, sans-serif; font-size: 17.3px; white-space: pre;" x="431.18" y="200.45">E-FATURA</text>
+  <rect x="352.81" y="207.575" width="167.821" height="7.124" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"></rect>
+  <rect x="351.227" y="172.744" width="11.083" height="45.913" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"></rect>
+  <path stroke="rgb(255,0,0)" stroke-width="0" d="M 434.835 143.164 C 442.166 141.032 447.644 141.868 453.389 143.164 C 458.955 144.421 462.807 149.827 468.85 150.586 C 475.889 151.47 487.586 145.166 493.587 146.257 C 497.991 147.057 501.157 149.692 503.173 152.75 C 505.26 155.916 506.381 161.411 505.647 165.119 C 504.938 168.702 502.105 172.299 499.153 174.705 C 496.086 177.206 492.171 178.443 487.403 179.653 C 481.495 181.152 472.955 182.982 465.757 182.126 C 458.317 181.242 449.541 173.324 443.493 174.087 C 438.393 174.73 436.327 180.261 431.125 183.363 C 424.585 187.263 414.992 192.852 406.387 195.114 C 397.874 197.352 386.092 198.472 379.794 196.969 C 375.282 195.893 372.207 193.246 370.208 190.475 C 368.353 187.905 367.401 184.388 367.734 181.199 C 368.099 177.708 370.981 172.708 372.991 170.376 C 374.496 168.63 375.406 168.116 377.938 167.284 C 382.027 165.941 389.586 167.477 397.11 164.81 C 407.517 161.12 424.527 146.163 434.835 143.164 Z" style="stroke: rgb(129, 151, 57); stroke-width: 2px; fill: rgb(241, 235, 36);"></path>
+</svg>
