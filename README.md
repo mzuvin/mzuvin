@@ -24,5 +24,4 @@
 - [Bilgisayar Mühendisliği Tavsiyeler](https://www.ciftklik.net/2019/08/bilgisayar-muhendisligi-tavsiyeler.html)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmzuvin%2Fmzuvin)]()
-<p align="right"><a href='https://bit.ly/mzuvin'><img width='200px' src="https://github.com/mzuvin/mzuvin/raw/master/star.svg"></a></p>
-
+<p align="right"><a href='https://bit.ly/mzuvin2'><img width='200px' src="https://github.com/mzuvin/mzuvin/raw/master/star2.svg"></a><a href='https://bit.ly/mzuvin'><img width='200px' src="https://github.com/mzuvin/mzuvin/raw/master/star.svg"></a></p>
