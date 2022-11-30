@@ -31,4 +31,4 @@
 - <a href='https://bit.ly/mzuvinvue3'>Vue3</a>
 - <a href='https://bit.ly/efaturagithub'>EFatura</a>
 - <a href='https://bit.ly/mzuvin2'>Yararlı Repolar</a>
-- <a href='https://bit.ly/mzuvin'>C# Örnek Projeler</a>
+- <a href='https://bit.ly/mzuvin'>c# Yararlı repolar</a>
