@@ -28,4 +28,7 @@
 
 # Stars
 
-<p align="right"><a href='https://bit.ly/mzuvinvue3'><img width='200px' src="https://github.com/mzuvin/mzuvin/raw/master/vue3.svg"></a><a href='https://bit.ly/efaturagithub'><img width='200px' src="https://github.com/mzuvin/mzuvin/raw/master/star3.svg"></a><a href='https://bit.ly/mzuvin2'><img width='200px' src="https://github.com/mzuvin/mzuvin/raw/master/star2.svg"></a><a href='https://bit.ly/mzuvin'><img width='200px' src="https://github.com/mzuvin/mzuvin/raw/master/star.svg"></a></p>
+- <a href='https://bit.ly/mzuvinvue3'>Vue3</a>
+- <a href='https://bit.ly/efaturagithub'>EFatura</a>
+- <a href='https://bit.ly/mzuvin2'>Yararlı Repolar</a>
+- <a href='https://bit.ly/mzuvin'>C# Örnek Projeler</a>
