@@ -10,7 +10,7 @@
 -->
 <p align="center"><img alt="Çift Klik" id="Header1_headerimg" src="https://github.com/mzuvin/mzuvin/raw/master/logo.png"></p>
 <p align="center" title="[TR] 'Bir kelime tut içinden bir daha bir daha ve topla sen çıkacaksın' ">"Think one word, think again, think again and collect the words. The result will be you."</p>
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h1 align="center">Hi <img width='50px' src="https://raw.githubusercontent.com/mzuvin/mzuvin/master/wave.gif"></img>, I'm Mustafa</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
 # [TR] Blog posts 
