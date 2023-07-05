@@ -15,7 +15,8 @@
 
 # [TR] Blog posts 
 
-- :point_right:[C# Smtp ile Gönderilen Mailleri Depolamak](https://www.ciftklik.net/2021/11/c-ile-smtp-ile-gonderilen-mailleri.html)  :point_left:
+- :point_right: [Saha Tecrübelerim C#'a Merhaba, Python'a Elveda.](https://www.ciftklik.net/2023/07/saha-tecrubelerim.html?m=1)
+- [C# Smtp ile Gönderilen Mailleri Depolamak](https://www.ciftklik.net/2021/11/c-ile-smtp-ile-gonderilen-mailleri.html)
 - [Github Actions ile .Net Core Uygulamasını FTP ile Publish Etmek](https://www.ciftklik.net/2021/06/github-actions-dotnet-core-ftp-.html)
 - [Bozuk Açılmayan Hasarlı Mp4 Video Onarma Nasıl Yapılır](https://www.ciftklik.net/2020/09/bozuk-acilmayan-hasarli-mp4-video-onarma.html)
 - [İnönü Üniversitesi Bilgisayar Mühendisliği](https://www.ciftklik.net/2020/08/inonu-universitesi-bilgisayar-muhendisligi.html)
