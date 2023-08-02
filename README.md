@@ -13,6 +13,9 @@
 <h1 align="center">Hi <img width='50px' src="https://raw.githubusercontent.com/mzuvin/mzuvin/master/wave.gif"></img>, I'm Mustafa</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
+![Metrics](https://metrics.lecoq.io/mzuvin?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul)
+
+
 # [TR] Blog posts 
 
 - :point_right: [Saha Tecrübelerim C#'a Merhaba, Python'a Elveda.](https://www.ciftklik.net/2023/07/saha-tecrubelerim.html?m=1)
