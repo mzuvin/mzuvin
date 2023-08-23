@@ -1,19 +1,3 @@
-<!--
-▒░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒░
-▒░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓TEKNOLOJİNİN YENİ ADRESİ▓▓▓▓▓▓▓▓▓▓▓▓▓▒░
-▒░▓▓▒░▒╔══╗╔═╗╔═══╗╔═══╗╔═╗╔═╗╔═╗ ╔═╗╔═╗╔═╗   ╔════╗╔═══╗╔═══╗▒░▒▓▓▒░
-▒░▓▓▒░▒║ ╔╝╠═╣║ ╔═╝╚╗ ╔╝║ ╚╝╔╝║ ║ ╠═╣║ ╚╝╔╝   ║ ╔╗ ║╠═╦═╝╚╗ ╔╝▒░▒▓▓▒░
-▒░▓▓▒░▒║ ╚╗║ ║║ ╔╝  ║ ║ ║ ╔╗╚╗║ ╚╗║ ║║ ╔╗╚╗╔═╗║ ║║ ║╠═╩═╗ ║ ║ ▒░▒▓▓▒░
-▒░▓▓▒░▒╚══╝╚═╝╚═╝   ╚═╝ ╚═╝╚═╝╚══╝╚═╝╚═╝╚═╝╚═╝╚═╝╚═╝╚═══╝ ╚═╝ ▒░▒▓▓▒░
-▒░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓KEYFİNCE YAZILIM▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░
-▒░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░
--->
-<p align="center" title="[TR] 'Bir kelime tut içinden bir daha bir daha ve topla sen çıkacaksın' ">"Think one word, think again, think again and collect the words. The result will be you."</p>
-<h1 align="center">Hi <img width='50px' src="https://raw.githubusercontent.com/mzuvin/mzuvin/master/wave.gif"></img>, I'm Mustafa</h1>
-<h3 align="center">Full Stack Software Developer</h3>
-
-![Metrics](https://metrics.lecoq.io/mzuvin?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul)
-
 
 # [TR] Blog posts 
 
@@ -31,8 +15,9 @@
 
 # Stars
 
-- <a href='https://bit.ly/mzuvinvue3'>Vue3</a>
-- <a href='https://bit.ly/efaturagithub'>EFatura</a>
-- <a href='https://bit.ly/mzuvin2'>Yararlı Repolar</a>
-- <a href='https://bit.ly/mzuvin'>c# Yararlı repolar</a>
-- <a href='https://github.com/mzuvin?tab=stars'>Daha fazlası...</a>
+＊*•̩̩͙✩•̩̩͙*˚ <a href='https://bit.ly/mzuvinvue3'>Vue3</a></br>
+＊*•̩̩͙✩•̩̩͙*˚ <a href='https://bit.ly/efaturagithub'>EFatura</a></br>
+＊*•̩̩͙✩•̩̩͙*˚ <a href='https://bit.ly/mzuvin2'>Yararlı Repolar</a></br>
+＊*•̩̩͙✩•̩̩͙*˚ <a href='https://bit.ly/mzuvin'>c# Yararlı repolar</a></br>
+＊*•̩̩͙✩•̩̩͙*˚ <a href='https://github.com/mzuvin?tab=stars'>Daha fazlası...</a>
+</br>
