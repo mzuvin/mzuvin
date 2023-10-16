@@ -1,4 +1,7 @@
 
+<a href='https://www.ciftklik.net/2023/10/pentesterlar-icin-yararli-websiteleri.html'><img src='/logo2.svg'/></a>
+
+
 # [TR] Blog posts 
 
 - :point_right: [Pentesterlar için Yararlı Websiteleri](https://www.ciftklik.net/2023/10/pentesterlar-icin-yararli-websiteleri.html)
