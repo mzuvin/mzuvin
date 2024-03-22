@@ -25,4 +25,10 @@
 ＊*•̩̩͙✩•̩̩͙*˚ <a href='https://bit.ly/mzuvin2'>Yararlı Repolar</a></br>
 ＊*•̩̩͙✩•̩̩͙*˚ <a href='https://bit.ly/mzuvin'>c# Yararlı repolar</a></br>
 ＊*•̩̩͙✩•̩̩͙*˚ <a href='https://github.com/mzuvin?tab=stars'>Daha fazlası...</a>
-</br>
+
+
+
+
+<p align='center' title='Herhangi bir aptal, bir bilgisayarın anlayabileceği kodları yazabilir. İyi programcılar, insanların anlayabileceği kodları yazarlar. Martin Fowler'>
+  “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” M.F
+</p>
