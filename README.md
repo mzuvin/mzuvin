@@ -4,7 +4,8 @@
 
 # [TR] Blog posts 
 
-- :point_right: [Pentesterlar için Yararlı Websiteleri](https://www.ciftklik.net/2023/10/pentesterlar-icin-yararli-websiteleri.html)
+- :point_right: *Yeni Blog* [.Net Native Aot Json/Xml Serileştirme işlemleri nasıl yapılır?](https://www.ciftklik.net/2025/02/net-native-aot-xml-ve-json-serilestirme.html)
+- [Pentesterlar için Yararlı Websiteleri](https://www.ciftklik.net/2023/10/pentesterlar-icin-yararli-websiteleri.html)
 - [<code>/*Yorum satırlarını*/ //seçen regex yazalım.</code>](https://www.ciftklik.net/2023/09/yorum-satirlarini-secen-regex-yazalim.html)
 - [Saha Tecrübelerim C#'a Merhaba, Python'a Elveda.](https://www.ciftklik.net/2023/07/saha-tecrubelerim.html?m=1)
 - [C# Smtp ile Gönderilen Mailleri Depolamak](https://www.ciftklik.net/2021/11/c-ile-smtp-ile-gonderilen-mailleri.html)
